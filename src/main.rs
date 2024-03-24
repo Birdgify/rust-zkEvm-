@@ -6,6 +6,7 @@ fn main() {
         Candidate::new("Candidate B", "Party X"),
         Candidate::new("Candidate C", "Party Y"),
         Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
     ];
 
     println!("Welcome to the Electronic Voting Machine!");
