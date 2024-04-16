@@ -25,8 +25,9 @@ fn main() {
         Candidate::new("Candidate D", "Party Z"),
         Candidate::new("Candidate D", "Party Z"),
         Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
     ];
-
+        
     println!("Welcome to the Electronic Voting Machine!");
     println!("Candidates:");
     for (i, candidate) in candidates.iter().enumerate() {
