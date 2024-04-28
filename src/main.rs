@@ -31,6 +31,8 @@ fn main() {
         Candidate::new("Candidate D", "Party Z"),
         Candidate::new("Candidate D", "Party Z"),
         Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
 
     ];
         
@@ -40,6 +42,7 @@ fn main() {
         println!("{}. {} ({})", i + 1, candidate.name, candidate.party);
     }
 
+    
 
     println!("Please enter the number of your chosen candidate:");
     let mut input = String::new();
