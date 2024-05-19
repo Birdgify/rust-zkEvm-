@@ -39,6 +39,13 @@ fn main() {
         Candidate::new("Candidate D", "Party Z"),
         Candidate::new("Candidate D", "Party Z"),
         Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
+        Candidate::new("Candidate D", "Party Z"),
 
     ];
         
